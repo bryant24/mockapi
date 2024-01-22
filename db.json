@@ -100,7 +100,9 @@
    {
     "id":1,
     "audio":"/audio/2022/mp3",
-    "name":"高考英语听力1",
+    "category":"英语四级",
+    "subname":"2023年6月第一套",
+    "name":"短文一",
     "usernum":"1000",
     "lyric":"1."
    }
