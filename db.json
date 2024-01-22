@@ -7,17 +7,17 @@
         {
           "id": "1",
           "i": "A",
-          "t": "He has occasionally been harassed by his fans.",
+          "t": "He has occasionally been harassed by his fans."
         },
         {
           "i": "B",
           "t": "He has been guarded by a discreet assistant.",
-          "id": "2",
+          "id": "2"
         },
         { "i": "C", "t": "He is well known to the public.", "id": "3" },
-        { "i": "D", "t": "He is a famous football coach.", "id": "4" },
+        { "i": "D", "t": "He is a famous football coach.", "id": "4" }
       ],
-      "answer": "A",
+      "answer": "A"
     },
     {
       "id": "200",
@@ -26,17 +26,17 @@
         {
           "id": "5",
           "i": "A",
-          "t": "He has occasionally been harassed by his fans.",
+          "t": "He has occasionally been harassed by his fans."
         },
         {
           "i": "B",
           "t": "He has been guarded by a discreet assistant.",
-          "id": "6",
+          "id": "6"
         },
         { "i": "C", "t": "He is well known to the public.", "id": "7" },
-        { "i": "D", "t": "He is a famous football coach.", "id": "8" },
+        { "i": "D", "t": "He is a famous football coach.", "id": "8" }
       ],
-      "answer": "A",
+      "answer": "A"
     },
     {
       "id": "300",
@@ -45,17 +45,17 @@
         {
           "id": "9",
           "i": "A",
-          "t": "He has occasionally been harassed by his fans.",
+          "t": "He has occasionally been harassed by his fans."
         },
         {
           "i": "B",
           "t": "He has been guarded by a discreet assistant.",
-          "id": "10",
+          "id": "10"
         },
         { "i": "C", "t": "He is well known to the public.", "id": "11" },
-        { "i": "D", "t": "He is a famous football coach.", "id": "12" },
+        { "i": "D", "t": "He is a famous football coach.", "id": "12" }
       ],
-      "answer": "A",
+      "answer": "A"
     },
     {
       "id": "400",
@@ -64,17 +64,17 @@
         {
           "id": "9",
           "i": "A",
-          "t": "He has occasionally been harassed by his fans.",
+          "t": "He has occasionally been harassed by his fans."
         },
         {
           "i": "B",
           "t": "He has been guarded by a discreet assistant.",
-          "id": "10",
+          "id": "10"
         },
         { "i": "C", "t": "He is well known to the public.", "id": "11" },
-        { "i": "D", "t": "He is a famous football coach.", "id": "12" },
+        { "i": "D", "t": "He is a famous football coach.", "id": "12" }
       ],
-      "answer": "A",
+      "answer": "A"
     },
     {
       "id": "500",
@@ -83,17 +83,17 @@
         {
           "id": "9",
           "i": "A",
-          "t": "He has occasionally been harassed by his fans.",
+          "t": "He has occasionally been harassed by his fans."
         },
         {
           "i": "B",
           "t": "He has been guarded by a discreet assistant.",
-          "id": "10",
+          "id": "10"
         },
         { "i": "C", "t": "He is well known to the public.", "id": "11" },
-        { "i": "D", "t": "He is a famous football coach.", "id": "12" },
+        { "i": "D", "t": "He is a famous football coach.", "id": "12" }
       ],
-      "answer": "A",
+      "answer": "A"
     }
   ]
 }
